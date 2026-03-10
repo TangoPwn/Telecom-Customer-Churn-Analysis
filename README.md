@@ -169,18 +169,8 @@ can increase engagement and retention.
 ### Optimize Payment Options
 Encouraging customers to switch from **electronic check payments to automatic payment methods** may improve retention.
 
----
 
-# 📂 Project Structure
 
-```
-Telecom-Customer-Churn-Analysis
-│
-├── TCA.ipynb
-├── Telecom_Customer_Churn_Analysis_Report.pdf
-├── dataset.csv
-└── README.md
-```
 
 ---
 
